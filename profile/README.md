@@ -1,7 +1,6 @@
-<h3 align="center">Acne Classification Mobile App </h3>
 <p align="center">
   <h1 align="center">Attacne App</h1>
-  <h3 align="center">Acne Detection and Product Recommendation</h3>
+  <h3 align="center">Acne Classification Mobile App</h3>
 
 # Table of Contents
 1. [Team](#Team)
