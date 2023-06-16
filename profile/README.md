@@ -12,8 +12,8 @@
 # Team
 |         Member                | Student ID  |        Path        |                Role                        |                           Contacts                        |
 | :--------------------:        | :--------:  | :----------------: | :----------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-|  Zulfatin Nafisah             | M131DSY1827 |  Machine Learning  |         Machine Learning Developer         |                                                           |
-|  Yuricho Verani Lalenoh       | M131DSY3738 |  Machine Learning  |         Machine Learning Developer         |                                                           |
+|  Zulfatin Nafisah             | M131DSY1827 |  Machine Learning  |         Machine Learning Developer         |  www.linkedin.com/in/zulfatin-nafisah-7525bb209/ |
+|  Yuricho Verani Lalenoh       | M131DSY3738 |  Machine Learning  |         Machine Learning Developer         |  www.linkedin.com/in/yuricho-lalenoh-143982221/ |
 |  Clarisha Hanandya Puspitadewi| M181DSY2997 |  Machine Learning  |         Machine Learning Developer         |  https://www.linkedin.com/in/clarishanandyap/             |
 |  Muh. Hilmy Noor Fauzi        | A267DSX2266 | Mobile Development |       Android Mobile Developer, UI/UX      |  www.linkedin.com/in/muh-hilmy-noor-fauzi-6a19ba25a/      |
 |  Lugaya Mukti Arwasaputra     | C208DKX3965 |  Cloud Computing   |          Cloud Engineer, Back-end          |  www.linkedin.com/in/lugaya-mukti-arwasaputra/  |
