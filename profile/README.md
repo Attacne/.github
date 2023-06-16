@@ -16,7 +16,7 @@
 |  Yuricho Verani Lalenoh       | M131DSY3738 |  Machine Learning  |         Machine Learning Developer         |                                                           |
 |  Clarisha Hanandya Puspitadewi| M181DSY2997 |  Machine Learning  |         Machine Learning Developer         |  https://www.linkedin.com/in/clarishanandyap/             |
 |  Muh. Hilmy Noor Fauzi        | A267DSX2266 | Mobile Development |       Android Mobile Developer, UI/UX      |                                                           |
-|  Lugaya Mukti Arwasaputra     | C208DKX3965 |  Cloud Computing   |          Cloud Engineer, Back-end          |                                                           |
+|  Lugaya Mukti Arwasaputra     | C208DKX3965 |  Cloud Computing   |          Cloud Engineer, Back-end          |  www.linkedin.com/in/lugaya-mukti-arwasaputra/  |
 |  Arya Saputra                 | C267DSX2694 |  Cloud Computing   |              Cloud Engineer                |                                                           |
 
 
